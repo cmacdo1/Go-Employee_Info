@@ -90,7 +90,7 @@ func main() {
 	}
 
 	e2 := Employee{
-		Name:   "Helen Bayer",
+		Name:   "Helen Boolean",
 		Age:    47,
 		Salary: 75432.12,
 	}
